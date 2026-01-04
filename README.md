@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, sou a Ana Lívia 👋
 
 <!--
 **analmagalhaes/analmagalhaes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🎓 Técnica em Informática pelo CEFET-MG  
+💡 Interesse em desenvolvimento mobile e sistemas  
+📚 Atualmente estudando C, C++, Java e React Native
+
+## 🚀 Tecnologias
+- C / C++
+- Java
+- JavaScript
+- React Native (Expo)
+- Supabase
+- GitHub
