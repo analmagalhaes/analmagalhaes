@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 Técnica em Informática pelo CEFET-MG  
+🎓 Técnica em Informática pelo CEFET-MG e Estudante de Ciência da Computação na PUC-Minas
 💡 Interesse em desenvolvimento mobile e sistemas  
 📚 Atualmente estudando C, C++, Java e React Native
 
